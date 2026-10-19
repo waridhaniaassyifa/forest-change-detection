@@ -36,7 +36,6 @@ Program menerima tiga masukan, yaitu persentase tutupan vegetasi sebelum pengama
 ```text
 forest-change-detection/
 ├── main.py
-└── README.md
 ```
 
 ## 🚀 Cara Menjalankan Program
